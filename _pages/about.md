@@ -18,8 +18,8 @@ latest_posts:
   enabled: false
 ---
 
-I am Zhengxuan Song (宋政轩), a PhD student in the School of Computer Science at the University of Sheffield, supervised by [Dr. Chen Chen](https://cherise215.github.io/).
+I am Zhengxuan Song (宋政轩), a PhD student in the School of Computer Science at the University of Sheffield, supervised by [Dr. Chen Chen](https://cherise215.github.io/). Previously, I pursued my master's studies at Sun Yat-sen University under the supervision of [Prof. Kun Zeng](https://cse.sysu.edu.cn/en/teacher/ZengKun).
 
 My research focuses on medical image analysis, particularly generative models and multimodal learning for analyzing cardiac pathologies using MRI.
 
-Previously, I pursued my master's studies at Sun Yat-sen University under the supervision of [Prof. Kun Zeng](https://cse.sysu.edu.cn/en/teacher/ZengKun).
+
