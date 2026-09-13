@@ -13,11 +13,11 @@ cv:
     - institution: Jilin University
       studyType: Bachelor's Degree
       area: Internet of Things<br>School of Computer Science
-    Research Interests:
+    Interests:
     - name: Medical Image Analysis
       icon: fa-solid fa-tag
       keywords: Generative Models, Multimodal Learning, Cardiac MRI
-    Technical Skills:
+    Skills:
     - name: Programming and Deep Learning
       icon: fa-solid fa-code
       keywords: Python, PyTorch
