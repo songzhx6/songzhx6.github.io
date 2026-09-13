@@ -20,5 +20,17 @@
       "studyType": "Bachelor's Degree",
       "area": "Internet of Things<br>School of Computer Science"
     }
+  ],
+  "interests": [
+    {
+      "name": "Medical Image Analysis",
+      "keywords": ["Generative Models", "Multimodal Learning", "Cardiac MRI"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming and Deep Learning",
+      "keywords": ["Python", "PyTorch"]
+    }
   ]
 }
