@@ -7,7 +7,7 @@ profile:
   align: right
   image_circular: false
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
