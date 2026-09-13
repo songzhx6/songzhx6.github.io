@@ -21,7 +21,7 @@ cv:
     - name: Programming and Deep Learning
       icon: fa-solid fa-code
       keywords: Python, PyTorch
-    Basketball:
-    - bullet: 1st Place, CUBA Division III Jilin Provincial Tournament
-    - bullet: 9th Place, Northern Region, CUBA Division III National Tournament
-    - bullet: Top 16, Nanning High School Basketball League
+    Hobbies:
+    - label: Basketball
+      details: >-
+        <ul class="mb-0"><li>1st Place, CUBA Division III Jilin Provincial Tournament</li><li>9th Place, Northern Region, CUBA Division III National Tournament</li><li>Top 16, Nanning High School Basketball League</li></ul>
