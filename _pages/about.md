@@ -11,7 +11,9 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: false
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
@@ -20,6 +22,9 @@ latest_posts:
 <style>
   .post-header .post-title .font-weight-bold {
     font-weight: inherit !important;
+  }
+  .news th[scope="row"] {
+    display: none;
   }
 </style>
 
