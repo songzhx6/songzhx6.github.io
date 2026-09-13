@@ -27,6 +27,12 @@ latest_posts:
   .news th[scope="row"] {
     display: none;
   }
+  @media (min-width: 576px) {
+    .profile {
+      width: 24% !important;
+      max-width: 220px;
+    }
+  }
 </style>
 
 I am Zhengxuan Song (宋政轩), a PhD student in the School of Computer Science at the University of Sheffield, supervised by [Dr. Chen Chen](https://cherise215.github.io/). Previously, I pursued my master's studies at Sun Yat-sen University under the supervision of [Prof. Kun Zeng](https://cse.sysu.edu.cn/en/teacher/ZengKun).
