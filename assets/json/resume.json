@@ -8,26 +8,17 @@
     {
       "institution": "University of Sheffield",
       "studyType": "PhD Student (Present)",
-      "area": "Computer Science",
-      "highlights": [
-        "School of Computer Science"
-      ]
+      "area": "Computer Science<br>School of Computer Science"
     },
     {
       "institution": "Sun Yat-sen University",
       "studyType": "Master's Degree",
-      "area": "Computer Technology",
-      "highlights": [
-        "School of Computer Science"
-      ]
+      "area": "Computer Technology<br>School of Computer Science"
     },
     {
       "institution": "Jilin University",
       "studyType": "Bachelor's Degree",
-      "area": "Internet of Things",
-      "highlights": [
-        "School of Computer Science"
-      ]
+      "area": "Internet of Things<br>School of Computer Science"
     }
   ]
 }
