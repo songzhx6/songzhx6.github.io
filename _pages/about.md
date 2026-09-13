@@ -27,9 +27,13 @@ latest_posts:
   .news th[scope="row"] {
     display: none;
   }
+  .profile {
+    width: 35% !important;
+    max-width: 140px;
+  }
   @media (min-width: 576px) {
     .profile {
-      width: 10% !important;
+      width: 15% !important;
       max-width: none;
     }
   }
