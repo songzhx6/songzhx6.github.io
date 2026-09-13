@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student · School of Computer Science · University of Sheffield
 
 profile:
   align: right
