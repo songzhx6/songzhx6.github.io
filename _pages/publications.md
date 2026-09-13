@@ -7,7 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<style>
+  .publications .abbr figure {
+    display: none;
+  }
+</style>
 
 <!-- Bibsearch Feature -->
 
